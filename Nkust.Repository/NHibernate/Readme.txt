@@ -1,0 +1,1 @@
+﻿聽說NHibernate 有支援Sybase 15.X ，先預留一下。
